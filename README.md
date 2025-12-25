@@ -284,6 +284,14 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+<img width="1835" height="915" alt="image" src="https://github.com/user-attachments/assets/ddb75270-f6d8-4064-9c48-39f0a1be15ef" />
+<img width="1829" height="832" alt="image" src="https://github.com/user-attachments/assets/810f84cd-b9e0-462a-8ef3-a8ea044ba01f" />
+<img width="1811" height="834" alt="image" src="https://github.com/user-attachments/assets/1b7e234f-56d3-4251-860f-6ad08e927e18" />
+<img width="1831" height="906" alt="image" src="https://github.com/user-attachments/assets/ae5af3df-66ff-4965-b307-2742165e595f" />
+
+
+
+
 
 
 ## RESULT:
